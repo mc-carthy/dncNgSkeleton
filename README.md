@@ -6,6 +6,6 @@ $ npm install
 $ webpack --config webpack.config.vendor.js
 $ dotnet restore
 $ dotnet build
-$ dotnet run
+$ dotnet (watch) run
 
 Application should then be running on port 5000
