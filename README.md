@@ -1,0 +1,1 @@
+Skeleton project for a ASP.NET Core project with Angular
